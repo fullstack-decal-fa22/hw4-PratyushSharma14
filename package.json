@@ -1,7 +1,7 @@
 {
   "name": "blockstagram",
   "version": "0.1.0",
-  "homepage": "https://PratyushSharma14.github.io/fullstackhomework4",
+  "homepage": "https://fullstack-decal-fa22.github.io/hw4-PratyushSharma14",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -43,8 +43,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.26.0",
-    "eslint-config-prettier": "^8.5.0",
     "gh-pages": "^4.0.0"
   }
 }
