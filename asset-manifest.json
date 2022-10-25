@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Bhw4-PratyushSharma14%7D/static/css/main.b6832693.css",
-    "main.js": "/%7Bhw4-PratyushSharma14%7D/static/js/main.7f61b52f.js",
-    "static/js/787.263e14e4.chunk.js": "/%7Bhw4-PratyushSharma14%7D/static/js/787.263e14e4.chunk.js",
-    "index.html": "/%7Bhw4-PratyushSharma14%7D/index.html",
-    "main.b6832693.css.map": "/%7Bhw4-PratyushSharma14%7D/static/css/main.b6832693.css.map",
-    "main.7f61b52f.js.map": "/%7Bhw4-PratyushSharma14%7D/static/js/main.7f61b52f.js.map",
-    "787.263e14e4.chunk.js.map": "/%7Bhw4-PratyushSharma14%7D/static/js/787.263e14e4.chunk.js.map"
+    "main.css": "/hw4-PratyushSharma14/static/css/main.b6832693.css",
+    "main.js": "/hw4-PratyushSharma14/static/js/main.2c04c13f.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-PratyushSharma14/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-PratyushSharma14/index.html",
+    "main.b6832693.css.map": "/hw4-PratyushSharma14/static/css/main.b6832693.css.map",
+    "main.2c04c13f.js.map": "/hw4-PratyushSharma14/static/js/main.2c04c13f.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-PratyushSharma14/static/js/787.263e14e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6832693.css",
-    "static/js/main.7f61b52f.js"
+    "static/js/main.2c04c13f.js"
   ]
 }
